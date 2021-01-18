@@ -4,8 +4,8 @@
     <meta>
         <key>TestePRI2021</key>
         <title>Teste de avaliação de PRI2021</title>
-        <bdate>23-Nov-2020</bdate>
-        <edate>30-Nov-2020</edate> 
+        <bdate>18-jan-2021</bdate>
+        <edate>18-jan-2021</edate> 
         <supervisor url="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
     </meta>
     <workteam num="a84775">
@@ -16,7 +16,7 @@
     </workteam>
     <abstract>  
         <p>
-            De modo a forma conhecimentos sobre servidores em <i>Node.js</i>, foi desenvolvido um servidor que responde a pedidos <i>HTTP</i>, respondendo com uma página <i>HTML</i>(geradas utilizando <i>PUG</i>) com dados de uma base de dados em mongodb , utilizando o Express.
+           No exercicio 1 substitui os campos "ref" por "_id" utilizando a funcionalidade do vscode de subsitituir um dado match, relativamente a substituir as '/' por '_' utilizei o código no ficheriro "modifica.json", para ajudar à geração do mongoose schema usei o generate.js 
         </p>    
         </abstract>
     <derivables>
