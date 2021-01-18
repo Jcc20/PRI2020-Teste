@@ -16,7 +16,9 @@
     </workteam>
     <abstract>  
         <p>
-           No exercicio 1 substitui os campos "ref" por "_id" utilizando a funcionalidade do vscode de subsitituir um dado match, relativamente a substituir as '/' por '_' utilizei o código no ficheriro "modifica.json", para ajudar à geração do mongoose schema usei o generate.js 
+           No exercicio 1 substitui os campos "ref" por "_id" utilizando a funcionalidade do vscode de subsitituir um dado match, relativamente a substituir as '/' por '_' utilizei o código no ficheriro "modifica.json", para ajudar à geração do mongoose schema usei o generate.js.
+           No ficheiro generate-schema é necessário fazer npm install do modulo "generate-schema" e no ficheiro "modifica.json" o modulo "fs".
+           O ficheiro json foi importado através do mongodbCompass.
         </p>    
         </abstract>
     <derivables>
